@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class> 
+
+<student> 
+
+<name> KRISHNA </name> 
+
+<id> 19008957 </id> 
+
+<branch> CSE </branch> 
+
+<cgpa> 8.8 </cgpa> 
+
+</student> 
+
+<student>
+
+<name> Ramu </name> 
+
+<id> 19007643 </id> 
+
+<branch> ECE </branch> 
+
+<cgpa> 8 </cgpa> 
+
+</student>
+
+<student>
+
+<name> SOMU </name> 
+
+<id> 19009876 </id> 
+
+<branch> CSE </branch> 
+
+<cgpa> 8 </cgpa> 
+
+</student>
+
+<student>
+
+<name> VENU </name> 
+
+<id> 19000987 </id> 
+
+<branch> CSE </branch> 
+
+<cgpa> 10 </cgpa> 
+
+</student>
+
+<student>
+
+<name> ANAND </name> 
+
+<id> 19009123 </id> 
+
+<branch> CSE </branch> 
+
+<cgpa> 9 </cgpa> 
+
+</student>
+
+</class>

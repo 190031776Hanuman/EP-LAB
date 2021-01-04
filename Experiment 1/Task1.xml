@@ -1,0 +1,93 @@
+<class> 
+
+<student> 
+
+<name> RAMU </name> 
+
+<id> 19009876 </id> 
+
+ <avg>92</avg> 
+
+   <dob>14-12-1999</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9998765409"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student> 
+
+<student> 
+
+	<name> SOMU </name> 
+
+	<id> 190089076 </id> 
+
+ 	<avg>78</avg> 
+
+   <dob>07-06-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="8242345612"/>  		    
+
+   <distinction>NO</distinction> 
+
+</student>
+
+<student> 
+
+<name> VENU </name> 
+
+<id> 190038975 </id> 
+
+ <avg>85</avg> 
+
+   <dob>10-07-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9341234567"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student>
+
+<student> 
+
+<name> DINESH </name> 
+
+<id> 190090872 </id> 
+
+ <avg>72</avg> 
+
+   <dob>05-09-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9938234567"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student>
+
+<student> 
+
+<name> VENU </name> 
+
+<id> 190039854 </id> 
+
+ <avg>92</avg> 
+
+   <dob>27-10-1990</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9087657398"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student>
+
+</class>
